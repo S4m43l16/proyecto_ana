@@ -20,7 +20,7 @@
 <form method="POST" enctype="multipart/form-data" >
 <div class = "form-group">
 <label for="Foto">Foto</label>
-<input type="file" class="form-control" name="Foto" placeholder="Sube el archivo">
+<input type="file" class="form-control" name="txtFoto_Estudiante" placeholder="Sube el archivo">
 </div>
 
 <div class = "form-group">
@@ -119,9 +119,17 @@
 <table class="table">
     <thead>
         <tr>
-            <th>Nombres</th>
+            
+            <th>Estudiante <th>Nombres</th>
             <th>Apellidos</th>
+            <th>Apellidos</th>
+            <th>Cedula</th>
+            <th>Sexo</th>
+            <th>Fecha de nacimiento</th>
+            <th>Direccion</th>
             <th>Acciones</th>
+
+            Representante
         </tr>
     </thead>
     <tbody>

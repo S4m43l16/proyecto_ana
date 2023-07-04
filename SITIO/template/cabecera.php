@@ -1,3 +1,9 @@
+<?php
+
+?>
+
+
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -38,7 +44,7 @@
                     <a class="nav-link" href="consultas.php">Consultas</a>
                 </li>
                 <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle show" data-bs-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="true">Consultas</a>
+          <a class="nav-link dropdown-toggle show" data-bs-toggle="dropdown" href="home.php" role="button" aria-haspopup="true" aria-expanded="true">Consultas</a>
           <div class="dropdown-menu show" data-bs-popper="static">
             <a class="dropdown-item" href="#">Estudiantes</a>
             <a class="dropdown-item" href="#">Materias</a>

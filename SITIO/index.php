@@ -1,6 +1,6 @@
 <?php
 if($_POST){
-header('Location:home.php');
+
 
 }
 ?>
